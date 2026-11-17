@@ -8,15 +8,4 @@ const levels = [
     showcase: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
 	thumbnail: "https://i.postimg.cc/htg2RQ1y/20261110172238-1.png",
     position: 1
-},
-    {
-        id: 2,
-        name: "Another Level",
-        creator: "Another Creator",
-        verifier: "Another Verifier",
-	levelID: "87654321",
-        showcase: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-		thumbnail: "https://i.postimg.cc/htg2RQ1y/20261110172238-1.png",
-        position: 2
-    }
-];
+}

@@ -6,11 +6,12 @@ levels.forEach(level => {
     card.className = "level-card";
     card.href = `level.html?id=${level.id}`;
 
-    card.innerHTML = `
-        <span class="rank">#${level.position}</span>
-        <span class="level-name">${level.name}</span>
-        <span class="creator">${level.creator}</span>
-    `;
+   card.innerHTML = `
+    <img src="${level.thumbnail}" class="level-thumbnail">
+    <span class="rank">#${level.position}</span>
+    <span class="level-name">${level.name}</span>
+    <span class="creator">${level.creator}</span>
+`;
 
     leaderboard.appendChild(card);
 });

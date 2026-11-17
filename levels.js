@@ -6,7 +6,7 @@ const levels = [
     verifier: "Example Verifier",
     levelID: "12345678",
     showcase: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-	thumbnail: "https://your-image-url.com/image.png",
+	thumbnail: "[url=https://postimg.cc/KKYrLbq3][img]https://i.postimg.cc/KKYrLbq3/image.png[/img][/url]",
     position: 1
 },
     {
@@ -16,7 +16,7 @@ const levels = [
         verifier: "Another Verifier",
 	levelID: "87654321",
         showcase: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-		thumbnail: "https://your-image-url.com/image.png",
+		thumbnail: "[url=https://postimg.cc/n9qvZhzR][img]https://i.postimg.cc/n9qvZhzR/Show-me-your-heart.png[/img][/url]",
         position: 2
     }
 ];

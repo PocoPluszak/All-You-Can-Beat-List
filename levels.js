@@ -9,4 +9,4 @@ const levels = [
 	thumbnail: "https://i.postimg.cc/htg2RQ1y/20261110172238-1.png",
     position: 1
 }
-	};
+	];

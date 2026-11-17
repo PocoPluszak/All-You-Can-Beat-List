@@ -106,3 +106,9 @@ p {
     color: white;
     background: #292c38;
 }
+.level-thumbnail {
+    width: 100px;
+    height: 56px;
+    object-fit: cover;
+    border-radius: 6px;
+}
